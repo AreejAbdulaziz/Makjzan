@@ -11,7 +11,8 @@ Thanks to this application, users can benefit from online reservation technology
 
 ## Logo
 ![alt text](https://j.top4top.io/p_2931fa4eu1.png)
-
+## Presentaion
+https://www.canva.com/design/DAF5U07TYK4/irlMsFN7BMZg_erHD1xT5g/edit?utm_content=DAF5U07TYK4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ## Tools
   - Intellij
   - DataGrip
@@ -19,7 +20,7 @@ Thanks to this application, users can benefit from online reservation technology
   - Xampp
   - Figma
   - Canva
-
+  - Spring Boot Framework
 ## Dependencies
   - Lombok
   - Validation
